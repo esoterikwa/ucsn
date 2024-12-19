@@ -8,8 +8,9 @@ aplay
 **Installation process**
 1. git clone https://github.com/esoterikwa/ucsn
 2. cd usb-udev-notifications
-3. sudo chmod +x USB-custom_alerts.sh
-4. sudo ./USB_custom_alerts.sh
+3. sudo chmod +x USB_custom_alerts.sh
+4. Change both .mav sound files to your liking
+5. sudo ./USB_custom_alerts.sh
 
 **Tested on**
 -EndeavourOS+GNOME
