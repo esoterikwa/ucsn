@@ -9,7 +9,7 @@ aplay
 1. git clone https://github.com/esoterikwa/ucsn
 2. cd usb-udev-notifications
 3. sudo chmod +x USB-custom_alerts.sh
-4. sudo ./USB-custom_alerts.sh
+4. sudo ./USB_custom_alerts.sh
 
 **Tested on**
 -EndeavourOS+GNOME
