@@ -6,7 +6,7 @@ systemd
 aplay
 
 **Installation process**
-1. git clone https://gitlab.com/garygolden/usb-udev-notifications
+1. git clone https://github.com/esoterikwa/ucsn
 2. cd usb-udev-notifications
 3. sudo chmod +x USB-custom_alerts.sh
 4. sudo ./USB-custom_alerts.sh
